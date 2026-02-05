@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   app: {
-    baseURL: '/qr-generator-app/'
+    baseURL: '/Qr-code-generator-web-app/'
   },
   modules: [
     '@nuxt/eslint',
